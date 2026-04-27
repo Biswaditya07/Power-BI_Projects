@@ -144,7 +144,7 @@ This dashboard helps organizations:
 
 ## 📷 Dashboard Preview
 
-![Financial Dashboard](images/Financial_Data_Dashboard.png)
+![Financial Dashboard](Financial_Data_Dashboard.png)
 
 ## 🚀 Why This Project Matters
 
