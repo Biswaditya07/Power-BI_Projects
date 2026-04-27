@@ -160,12 +160,3 @@ Finance teams require quick access to reliable business metrics. This dashboard 
 ## ⭐ Support
 
 If you like this project, give it a **star ⭐** on GitHub and connect for more Power BI, Analytics, SQL, Python, and Forecasting projects.
-
----
-
-## 📬 Contact
-
-Open to collaborations, freelance dashboard work, internships, and analytics opportunities.
-
-```
-```
