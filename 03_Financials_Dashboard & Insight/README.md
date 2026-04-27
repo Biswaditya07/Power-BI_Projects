@@ -1,4 +1,3 @@
-````markdown id="x4m8pz"
 # E-commerce Sales Analysis Dashboard | Power BI Project
 
 ## 📌 Project Overview
@@ -143,34 +142,9 @@ This dashboard helps organizations:
 
 ---
 
-## 📌 Suggested Dashboard Pages
-
-### Page 1: Executive Summary
-KPIs + Sales Trend + Filters
-
-### Page 2: Product Analysis
-Category / Sub-category performance
-
-### Page 3: Customer Insights
-Repeat buyers / customer value
-
-### Page 4: Regional Analysis
-Map visuals + location comparison
-
-### Page 5: Profitability Dashboard
-Margins / discount / loss areas
-
----
-
 ## 📷 Dashboard Preview
 
-```markdown
-![Dashboard Preview](images/ecommerce-dashboard.png)
-````
-
-(Add screenshot after uploading image to GitHub repository)
-
----
+![Financial Dashboard](images/Financial_Data_Dashboard.png)
 
 ## 🚀 Why This Project Matters
 
