@@ -146,29 +146,10 @@ This dashboard helps organizations:
 
 ---
 
-## 📌 Suggested Dashboard Pages
-
-### Page 1: Executive Summary
-KPIs + Revenue + Profit Trends
-
-### Page 2: Profitability Analysis
-Margins, Costs, Discount Impact
-
-### Page 3: Product Performance
-Top Products, Units Sold, Revenue
-
-### Page 4: Regional Dashboard
-Country / Market Comparison
-
-### Page 5: Forecast & Growth Trends
-Future planning insights
-
----
-
 ## 📷 Dashboard Preview
 
 ```markdown
-![Financial Dashboard](images/Financial_Dashboard.png)
+![Financial Dashboard](Financial_Dashboard.png)
 ````
 
 ## 🚀 Why This Project Matters
