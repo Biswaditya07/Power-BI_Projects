@@ -144,7 +144,7 @@ This dashboard helps organizations:
 
 ## 📷 Dashboard Preview
 
-![Financial Dashboard](Financial_Data_Dashboard.png)
+![Ecommerce Dashboard](Ecommerce_Data_Dashboard.png)
 
 ## 🚀 Why This Project Matters
 
