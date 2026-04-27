@@ -102,7 +102,4 @@ This repository demonstrates my ability to:
 ---
 
 ## 📷 Dashboard Preview
-
-```markdown
-<img width="1730" height="806" alt="image" src="https://github.com/user-attachments/assets/85f2fdcf-4b3e-4f45-989c-9352f5883a3e" />
-
+![Finance Dashboard](Finance_Dashboard.png)
